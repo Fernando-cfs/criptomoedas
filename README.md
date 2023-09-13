@@ -9,8 +9,13 @@ As criptomoedas vieram para mudar forma como as transações são executadas.
 Isso é especialmente valioso em transações internacionais, onde as criptomoedas superam as fronteiras e as taxas de câmbio, facilitando o comércio global.
 
 ## Sobre o Projeto 📊
+
+Projeto em grupo do módulo 5 para o curso de analista de dados da Resilia educação
+no projeto foi pedido para analisar o mercado de criptomoedas tirando insights que ajudam a entender o crescimento e como elas se desenvolveram ao longo dos anos 
+foram analisado 10 criptomoedas: 
+
 **Relatório das Criptomoedas**
-Nós escolhemos 10 moedas:
+
 
 ![Aave](https://img.shields.io/badge/Aave%20(aave)-B6509E?style=for-the-badge&logo=ghostery&logoColor=2EBAC6) Inicio: 2017 - Aave (AAVE) é um protocolo de finanças descentralizadas (DeFi) na qual os usuários podem emprestar (ou pegar emprestado) criptomoedas. O AAVE é seu token nativo, usado tanto nas negociações e quanto na governança. Quem deposita criptomoedas fornece liquidez para a plataforma e, em troca, ganha juros.
 
@@ -31,9 +36,6 @@ Nós escolhemos 10 moedas:
 ![EOS](https://img.shields.io/badge/EOS%20(EOS)-000?style=for-the-badge&logo=obsidian&logoColor=white) Início: 2018 - EOS é uma plataforma projetada para permitir que desenvolvedores construam aplicativos descentralizados visando tornar a tecnologia blockchain o mais descomplicada possível.
 
 ![Ethereum](https://img.shields.io/badge/Ethereum%20(ETH)-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) Início: 2015 - Ethereum é um sistema de blockchain descentralizado e open-source, que possui sua própria criptomoeda, o Ether. O ETH funciona como uma plataforma para várias outras criptomoedas, bem como para a execução de [smart contracts] descentralizados.
-
-
-## Funcionalidade  ⚙️
 
 
 ## Ferramentas Utilizadas 🛠️
