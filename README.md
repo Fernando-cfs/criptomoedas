@@ -12,9 +12,8 @@ Isso é especialmente valioso em transações internacionais, onde as criptomoed
 
 Projeto em grupo do módulo 5 para o curso de analista de dados da Resilia educação
 no projeto foi pedido para analisar o mercado de criptomoedas tirando insights que ajudam a entender o crescimento e como elas se desenvolveram ao longo dos anos 
-foram analisado 10 criptomoedas: 
 
-**Relatório das Criptomoedas**
+Foram analisadas 10 criptomoedas: 
 
 
 ![Aave](https://img.shields.io/badge/Aave%20(aave)-B6509E?style=for-the-badge&logo=ghostery&logoColor=2EBAC6) Inicio: 2017 - Aave (AAVE) é um protocolo de finanças descentralizadas (DeFi) na qual os usuários podem emprestar (ou pegar emprestado) criptomoedas. O AAVE é seu token nativo, usado tanto nas negociações e quanto na governança. Quem deposita criptomoedas fornece liquidez para a plataforma e, em troca, ganha juros.
@@ -45,10 +44,22 @@ foram analisado 10 criptomoedas:
     <td>Python 3</td> 
     <td>Power BI</td> 
     <td>Colab</td>     
-  </tr> 
+  </tr>
+  <tr>
+    <td>Usado no jupyter notebook <br>para utilizar as bibliotecas <br>pandas, numpy e matplot</td>
+    <td>Usado para gerar os gráficos<br> e gerar Insights</td>
+    <td>Usado para a ditribuição<br> desse material</td>
+  </tr>
 </table>
 
 ## Bibliotecas 📚
+Para usar as bibliotecas temos que as instalar. Para isso podemos usar o comando pip install no terminal:
+                
+    pip install numpy
+    pip install pandas
+    pip install matplotlib
+
+e depois importamos elas no inicio do Notebook assim:
 ```bash
 import pandas as pd
 import numpy as np
@@ -57,11 +68,12 @@ import matplotlib.pyplot as plt
 
 ## Como usar 🔌
 1. Baixar o repositório
+1. Instalar a bibliotecas
 2. Abri a pasta usando seu colab
 3. Clicar em ambiente de execução
 4. Executar tudo
 
-![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 [Fernando Casanova](https://www.linkedin.com/in/fernandocfs/)
 
