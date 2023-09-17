@@ -61,8 +61,11 @@ Para usar as bibliotecas temos que as instalar. Para isso podemos usar o comando
 
 e depois importamos elas no inicio do Notebook assim:
 ```bash
+import cv2
+from google.colab.patches import cv2_imshow
 import pandas as pd
 import numpy as np
+import seaborn as sns
 import matplotlib.pyplot as plt
 ```
 
