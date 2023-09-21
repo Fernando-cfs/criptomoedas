@@ -90,7 +90,7 @@ import matplotlib.pyplot as plt
 11. Conecte o power BI ao banco de dados
 12. Assim pode fazer nova visualizações
 
-
+# Integrantes do Grupo
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 [Fernando Casanova](https://www.linkedin.com/in/fernandocfs/)
