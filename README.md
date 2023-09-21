@@ -81,6 +81,15 @@ import matplotlib.pyplot as plt
 2. Abri a pasta usando seu colab
 3. Clicar em ambiente de execução
 4. Executar tudo
+5. Para criar visualizações
+6. Entre no arquivo de script sql
+7. Cria um banco de dados no pgadmin
+8. Execute o arquivo de criação de tabelas
+9. Execute o arquivo de insert dos dados
+10. Abra o power BI
+11. Conecte o power BI ao banco de dados
+12. Assim pode fazer nova visualizações
+
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
