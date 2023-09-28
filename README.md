@@ -1,6 +1,3 @@
-# Evidêcia de entrega: 
-Neste trabalho nós usamos as diversas ferramentas que no foram apresentadas durante o curso para efetuar a nossa análise. Usamos o Python para limpar os dados, Usamos o SQL para armazenar e gerenciar o banco de dados criado, usamos o PowerBI e o Looker para criar os dashboards presentes na apresentação e utilizamos oque aprendemoss durante asss aulas softs para montar a apresentação como o Storytelling, o Golden Circle, o mundo VUCA e BANI e linguagem objetiva. Durante a elaboração do projeto também usamos as metodólogias ágeis, usamos a escuta ativa, linguagem não violenta e as diversas ferramentas sociais que os nossos facilitadores com tanto carinho nóss ensinaram.
- 
 # Criptomoedas
 ![BitDoge](./images/bitdoge.png)
 
@@ -39,11 +36,6 @@ Foram analisadas 10 criptomoedas:
 
 ![Ethereum](https://img.shields.io/badge/Ethereum%20(ETH)-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) Início: 2015 - Ethereum é um sistema de blockchain descentralizado e open-source, que possui sua própria criptomoeda, o Ether. O ETH funciona como uma plataforma para várias outras criptomoedas, bem como para a execução de [smart contracts] descentralizados.
 
-Com essas moedas nós chegamos a diversos insights que estão no nosso Notebook __analisecriptomoedas.ipynb__.
-
-O banco de dados limpo está na pasta __script_das_tabelas_e_inserts__
-
-Na pasta __archive__ Estão os arquivos CSV originais e os limpos.
 
 ## Ferramentas Utilizadas 🛠️
 
